@@ -33,9 +33,9 @@
 ![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
 ![Cognex](https://img.shields.io/badge/Cognex-00599C?style=for-the-badge&logo=cognex&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/Cognex-DeepLearning-FF6F00&logo=deeplearning&logoColor=white)
-![ViDi](https://img.shields.io/badge/ViDi-00599C?style=for-the-badge&logo=vidi&logoColor=white)
-![VisionPro](https://img.shields.io/badge/VisionPro-0066CC?style=for-the-badge&logo=visionpro&logoColor=white)
-![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=for-the-badge&logo=hikvision&logoColor=white)
+![ViDi](https://img.shields.io/badge/Cognex-ViDi-00599C&logo=vidi&logoColor=white)
+![VisionPro](https://img.shields.io/badge/Cognex-VisionPro-0066CC&logo=visionpro&logoColor=white)
+![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
