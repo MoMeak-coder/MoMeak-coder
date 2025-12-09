@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ 技术栈
-<div align="center">
+<div align="left">
 
 #### 编程语言
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
