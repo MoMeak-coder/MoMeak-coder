@@ -32,7 +32,7 @@
 #### 框架与工具
 ![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
 ![Cognex](https://img.shields.io/badge/Cognex-00599C?style=for-the-badge&logo=cognex&logoColor=white)
-![DeepLearning](https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white)
+![DeepLearning](https://img.shields.io/badge/Cognex-DeepLearning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white)
 ![ViDi](https://img.shields.io/badge/ViDi-00599C?style=for-the-badge&logo=vidi&logoColor=white)
 ![VisionPro](https://img.shields.io/badge/VisionPro-0066CC?style=for-the-badge&logo=visionpro&logoColor=white)
 ![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=for-the-badge&logo=hikvision&logoColor=white)
