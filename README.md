@@ -38,6 +38,7 @@
 ![VisionPro](https://img.shields.io/badge/康耐视-VisionPro-0066CC&logo=visionpro&logoColor=white)
 </br>
 ![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
+![Halcon](https://img.shields.io/badge/Halcon-MVTec HDevelopEVO 25.11-0066CC&logo=halcon&logoColor=white)
 
 </div>
 
