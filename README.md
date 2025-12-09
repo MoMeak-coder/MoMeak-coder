@@ -43,7 +43,9 @@
 ![MVTecHDevelopEVO25.11](https://img.shields.io/badge/Halcon-MVTecHDevelopEVO25.11-0066CC&logo=halcon&logoColor=white)
 ![MVTecHDevelop25.11Progress](https://img.shields.io/badge/Halcon-MVTecHDevelop25.11Progress-0066CC&logo=halcon&logoColor=white)
 ![MVTecDeepLearning25.04.2](https://img.shields.io/badge/Halcon-MVTecDeepLearning25.04.2-0066CC&logo=halcon&logoColor=white)
-
+</br>
+![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=for-the-badge&logo=hikvision&logoColor=white)
+![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
 </div>
 
 <div align="center">
