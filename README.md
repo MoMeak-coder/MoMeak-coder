@@ -30,9 +30,7 @@
 
 </div>
 
-<div align="left">
-
-#### 视觉算法库、深度学习框架
+<div align="center">
 ![Cognex   ](https://img.shields.io/badge/Cognex-E60012?style=flat-square&logo=hikvision&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/康耐视-DeepLearning-FF6F00&logo=deeplearning&logoColor=white)
 ![ViDi](https://img.shields.io/badge/康耐视-ViDi-FF6F00&logo=deeplearning&logoColor=white)
