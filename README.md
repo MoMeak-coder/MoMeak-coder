@@ -49,19 +49,5 @@
 ![VisionMaster](https://img.shields.io/badge/海康-VisionMaster-E60012&logo=hikvision&logoColor=white)
 </br>
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Opencv-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-</div>
-
-<div align="center">
-
-
-
-#### 框架与工具
-
-
-
-![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 </div>
