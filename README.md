@@ -46,6 +46,7 @@
 </br>
 ![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=flat-square&logo=hikvision&logoColor=white)
 ![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
+![VisionMaster](https://img.shields.io/badge/海康-VisionMaster-E60012&logo=hikvision&logoColor=white)
 </div>
 
 <div align="center">
