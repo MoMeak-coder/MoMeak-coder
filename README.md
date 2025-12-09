@@ -38,7 +38,9 @@
 ![VisionPro](https://img.shields.io/badge/康耐视-VisionPro-0066CC&logo=visionpro&logoColor=white)
 </br>
 ![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
-![Halcon](https://img.shields.io/badge/Halcon-MVTecHDevelopEVO25.11-0066CC&logo=halcon&logoColor=white)
+![MVTecHDevelopEVO25.11](https://img.shields.io/badge/Halcon-MVTecHDevelopEVO25.11-0066CC&logo=halcon&logoColor=white)
+![MVTecHDevelop25.11Progress](https://img.shields.io/badge/Halcon-MVTecHDevelop25.11Progress-0066CC&logo=halcon&logoColor=white)
+![MVTecDeepLearning25.04.2](https://img.shields.io/badge/Halcon-MVTecDeepLearning25.04.2-0066CC&logo=halcon&logoColor=white)
 
 </div>
 
