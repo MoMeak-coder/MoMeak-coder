@@ -33,13 +33,13 @@
 <div align="left">
 
 #### 视觉算法库、深度学习框架
-![Cognex](https://img.shields.io/badge/Cognex-E60012?style=flat-square&logo=hikvision&logoColor=white)
+![Cognex   ](https://img.shields.io/badge/Cognex-E60012?style=flat-square&logo=hikvision&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/康耐视-DeepLearning-FF6F00&logo=deeplearning&logoColor=white)
 ![ViDi](https://img.shields.io/badge/康耐视-ViDi-FF6F00&logo=deeplearning&logoColor=white)
 ![VisionPro](https://img.shields.io/badge/康耐视-VisionPro-0066CC&logo=visionpro&logoColor=white)
 ![InSight](https://img.shields.io/badge/康耐视-InSight-0066CC&logo=visionpro&logoColor=white)
 </br>
-![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=flat-square&logo=halcon&logoColor=white)
+![Halcon   ](https://img.shields.io/badge/Halcon-0066CC?style=flat-square&logo=halcon&logoColor=white)
 ![MVTecHDevelopEVO25.11](https://img.shields.io/badge/Halcon-MVTecHDevelopEVO25.11-0066CC&logo=halcon&logoColor=white)
 ![MVTecHDevelop25.11Progress](https://img.shields.io/badge/Halcon-MVTecHDevelop25.11Progress-0066CC&logo=halcon&logoColor=white)
 ![MVTecDeepLearning25.04.2](https://img.shields.io/badge/Halcon-MVTecDeepLearning25.04.2-0066CC&logo=halcon&logoColor=white)
