@@ -37,6 +37,7 @@
 ![DeepLearning](https://img.shields.io/badge/康耐视-DeepLearning-FF6F00&logo=deeplearning&logoColor=white)
 ![ViDi](https://img.shields.io/badge/康耐视-ViDi-FF6F00&logo=deeplearning&logoColor=white)
 ![VisionPro](https://img.shields.io/badge/康耐视-VisionPro-0066CC&logo=visionpro&logoColor=white)
+![InSight](https://img.shields.io/badge/康耐视-InSight-0066CC&logo=visionpro&logoColor=white)
 </br>
 ![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
 ![MVTecHDevelopEVO25.11](https://img.shields.io/badge/Halcon-MVTecHDevelopEVO25.11-0066CC&logo=halcon&logoColor=white)
