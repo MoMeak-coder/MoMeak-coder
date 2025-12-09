@@ -6,9 +6,9 @@
 <!-- 个人介绍 -->
 <div align="center">
   
-  ## 👋 Hi, I'm [XiaoYang.Chen <陈小洋>]
+  ## 👋 Hi, I'm [ XiaoYang.Chen <陈小洋> ]
   
-  ### 🎯 深度学习视觉开发工程师 | Deep Learning Visual Development Engineer
+  ### 🎯Deep Learning Visual Development Engineer   |   深度学习视觉开发工程师
   
   📍 无锡 · WuXi 
   💼 机器视觉系统开发与集成  
