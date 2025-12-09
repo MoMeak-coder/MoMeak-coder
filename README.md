@@ -31,7 +31,15 @@
 </div>
 
 <div align="center">
-  
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+</br>
+![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=flat-square&logo=hikvision&logoColor=white)
+![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
+![VisionMaster](https://img.shields.io/badge/海康-VisionMaster-E60012&logo=hikvision&logoColor=white)
+</br>
 ![Cognex   ](https://img.shields.io/badge/Cognex-E60012?style=flat-square&logo=hikvision&logoColor=white)
 ![DeepLearning](https://img.shields.io/badge/康耐视-DeepLearning-FF6F00&logo=deeplearning&logoColor=white)
 ![ViDi](https://img.shields.io/badge/康耐视-ViDi-FF6F00&logo=deeplearning&logoColor=white)
@@ -43,11 +51,5 @@
 ![MVTecHDevelop25.11Progress](https://img.shields.io/badge/Halcon-MVTecHDevelop25.11Progress-0066CC&logo=halcon&logoColor=white)
 ![MVTecDeepLearning25.04.2](https://img.shields.io/badge/Halcon-MVTecDeepLearning25.04.2-0066CC&logo=halcon&logoColor=white)
 </br>
-![Hikvision](https://img.shields.io/badge/Hikvision-E60012?style=flat-square&logo=hikvision&logoColor=white)
-![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
-![VisionMaster](https://img.shields.io/badge/海康-VisionMaster-E60012&logo=hikvision&logoColor=white)
-</br>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 </div>
