@@ -33,11 +33,11 @@
 <div align="center">
 
 #### 视觉算法库、深度学习框架
-![Cognex](https://img.shields.io/badge/Cognex-00599C?style=for-the-badge&logo=cognex&logoColor=white)
+
 ![DeepLearning](https://img.shields.io/badge/康耐视-DeepLearning-FF6F00&logo=deeplearning&logoColor=white)
 ![VisionPro](https://img.shields.io/badge/康耐视-VisionPro-0066CC&logo=visionpro&logoColor=white)
-
-
+</br>
+![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 
 #### 框架与工具
-![Halcon](https://img.shields.io/badge/Halcon-0066CC?style=for-the-badge&logo=halcon&logoColor=white)
+
 
 
 ![Hikvision](https://img.shields.io/badge/海康-Hikvision-E60012&logo=hikvision&logoColor=white)
