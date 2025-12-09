@@ -1,8 +1,3 @@
-<!-- 顶部横幅图片 -->
-<div align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%"/>
-</div>
-
 <!-- 个人介绍 -->
 <div align="center">
   
