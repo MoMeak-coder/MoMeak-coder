@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ 技术栈
-<div align="left">
+<div align="center">
 
 #### 编程语言
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,7 +30,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 #### 视觉算法库、深度学习框架
 
